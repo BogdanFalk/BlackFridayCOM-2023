@@ -1,0 +1,97 @@
+.mkd-preload-background { background-image: url(https://cloudofmemories.ro/wp-content/themes/fleur/assets/img/preload_pattern.png) !important;}
+
+body { font-family: Poppins;}
+
+.mkd-boxed .mkd-wrapper { background-attachment: fixed;}
+
+h5 { font-family: Playfair Display;font-style: italic;}
+
+a, p a { color: #e7007e;}
+
+.mkd-st-loader .pulse, .mkd-st-loader .double_pulse .double-bounce1, .mkd-st-loader .double_pulse .double-bounce2, .mkd-st-loader .cube, .mkd-st-loader .rotating_cubes .cube1, .mkd-st-loader .rotating_cubes .cube2, .mkd-st-loader .stripes > div, .mkd-st-loader .wave > div, .mkd-st-loader .two_rotating_circles .dot1, .mkd-st-loader .two_rotating_circles .dot2, .mkd-st-loader .five_rotating_circles .container1 > div, .mkd-st-loader .five_rotating_circles .container2 > div, .mkd-st-loader .five_rotating_circles .container3 > div, .mkd-st-loader .atom .ball-1:before, .mkd-st-loader .atom .ball-2:before, .mkd-st-loader .atom .ball-3:before, .mkd-st-loader .atom .ball-4:before, .mkd-st-loader .clock .ball:before, .mkd-st-loader .mitosis .ball, .mkd-st-loader .lines .line1, .mkd-st-loader .lines .line2, .mkd-st-loader .lines .line3, .mkd-st-loader .lines .line4, .mkd-st-loader .fussion .ball, .mkd-st-loader .fussion .ball-1, .mkd-st-loader .fussion .ball-2, .mkd-st-loader .fussion .ball-3, .mkd-st-loader .fussion .ball-4, .mkd-st-loader .wave_circles .ball, .mkd-st-loader .pulse_circles .ball { background-color: #e7007e;}
+
+.mkd-st-loader .mkd-fleur-text { color: #e7007e;}
+
+.mkd-accordion-holder .mkd-title-holder { text-transform: none;}
+
+.mkd-btn { font-family: Poppins;}
+
+body.archive:not(.woocommerce) .mkd-wrapper-inner, body.archive:not(.woocommerce) .mkd-content { background-color: #fafafa;}
+
+.mkd-fullscreen-menu-holder { background-image: url(https://fleur.qodeinteractive.com/wp-content/uploads/2017/01/full-screen-menu-backgroud.jpg);background-position: center 0;background-repeat: no-repeat;}
+
+.mkd-top-bar-background { height: 90px;}
+
+.mkd-header-standard .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-minimal .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-divided .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-centered .mkd-page-header .mkd-logo-wrapper a { max-height: 99px;}
+
+.mkd-header-centered .mkd-page-header .mkd-logo-area { height: 110px;}
+
+.mkd-header-centered .mkd-page-header .mkd-logo-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-centered .mkd-logo-area .mkd-logo-wrapper { padding: 17px 0px 5px 0px;}
+
+.mkd-header-centered .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-standard-extended .mkd-page-header .mkd-logo-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-standard-extended .mkd-page-header .mkd-menu-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+
+        
+        
+        
+        
+        
+        
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+                    .mkd-drop-down .second .inner ul li.sub ul li a{
+                                     font-size: 12px;                                                                          }
+                
+        
+                    .mkd-drop-down .wide .second .inner ul li.sub ul li a,
+            .mkd-drop-down .wide .second ul li ul li a{
+                                     font-size: 12px;                                                                          }
+                
+        .mkd-mobile-header .mkd-mobile-header-inner { height: 70px;}
+
+			@media only screen and (max-width: 480px) {
+			.mkd-mobile-header .mkd-mobile-logo-wrapper a { height: 50px !important;}
+
+			}
+		.mkd-mobile-header .mkd-mobile-logo-wrapper a { max-height: 63px;}
+
+.mkd-page-header .mkd-search-opener { font-size: 20px;}
+
+.mkd-side-menu-slide-from-right .mkd-side-menu, .mkd-side-menu-slide-with-content .mkd-side-menu, .mkd-side-area-uncovered-from-content .mkd-side-menu { text-align: center;}
+
+.mkd-side-menu { background-image: url(https://fleur.qodeinteractive.com/wp-content/uploads/2017/01/side-area-background.jpg);background-size: cover;background-position: center center;}
+
+.mkd-sidearea-widget-title { font-size: 17px;}
+
+.mkd-side-menu .widget, .mkd-side-menu .widget.widget_search form, .mkd-side-menu .widget.widget_search form input[type="text"], .mkd-side-menu .widget.widget_search form input[type="submit"], .mkd-side-menu .widget h6, .mkd-side-menu .widget h6 a, .mkd-side-menu .widget p, .mkd-side-menu .widget li a, .mkd-side-menu .widget.widget_rss li a.rsswidget, .mkd-side-menu #wp-calendar caption,.mkd-side-menu .widget li, .mkd-side-menu h3, .mkd-side-menu .widget.widget_archive select, .mkd-side-menu .widget.widget_categories select, .mkd-side-menu .widget.widget_text select, .mkd-side-menu .widget.widget_search form input[type="submit"], .mkd-side-menu #wp-calendar th, .mkd-side-menu #wp-calendar td, .mkd-side-menu .q_social_icon_holder i.simple_social { font-size: 14px;}
+
