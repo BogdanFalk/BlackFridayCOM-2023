@@ -2642,6 +2642,34 @@
         color:white;
       }
 
+      .main-image {
+        width: 80%; 
+        height: 450px;
+        object-fit: cover;
+      }
+
+      @media screen and (orientation: portrait) {
+        .main-image {
+          width: 100%;
+          height: 200px;
+          object-fit: fill;
+          transform:scale(1.8);
+
+        }
+
+        .mkd-page-content-holder{
+          padding-left: 30px;
+          padding-right: 30px;
+          text-align: center;
+        }
+
+        .blockquote h1 {
+          padding: 15px;
+        }
+
+
+      }
+
     </style>
   </head>
 
@@ -3650,7 +3678,8 @@
                     >
                       <image
                         src="https://cloudofmemories.ro/wp-content/uploads/2023/11/1-8.png"
-                        style="width: 80%; height: 400px; object-fit: cover"
+                        
+                        class="main-image"
                       ></image>
                       <!-- 
                       <h3 style="margin-top: 30px; color: white">
@@ -3659,8 +3688,9 @@
 
                       <div class="blockquote-wrapper">
                         <div class="blockquote">
-                          <h1>
-                            Bunul gospodar își face vara sanie și iarna car!
+                          <h1 style="text-align: center;">
+                            <span style="color:white;">Cumpara acum un pachet pentru evenimentul tau din 2024 și beneficiezi de 10% reducere.</span>
+                            
                           </h1>
                         </div>
                       </div>
@@ -3677,14 +3707,10 @@
                         <span style="font-weight: bold; color: #e7007e"
                           >botez</span
                         >
-                        în viitorul tău?
+                        în 2024?
                       </h4>
-                      <h4 style="margin-top: 0px; color: white">
-                        În Cloud of Memories poți salva
-                        <span style="font-weight: bold; color: #e7007e"
-                          >toate momentele importante</span
-                        >
-                        de la evenimentul tău!
+                      <h4 style="margin-top: 20px; color: white">
+                        Prin Cloud of Memories poți colecta <span style="font-weight: bold; color: #e7007e">poze, clipuri video scurte și urări</span> de la invitați
                       </h4>
                     </div>
                     <div
@@ -3702,7 +3728,7 @@
                         pentru tine
                       </h3>
                     </div>
-                    <div style="display: flex; justify-content: center;align-items: center; margin-top: 50px;">
+                    <div style="display: flex; justify-content: center;align-items: center; margin-top: 50px; flex-wrap: wrap;">
                       <div
                         style="
                           display: flex;
